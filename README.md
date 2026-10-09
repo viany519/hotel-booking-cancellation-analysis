@@ -49,6 +49,10 @@ Detailed analysis and visualizations can be found in:
 
 ## Project Type
 Academic Group Project
+### Team
+- Jesselyn Angelia Luwuk
+- Maria Yohana Vianny Leo
+- Prabandari Pramesti Larasati Putri
 
 ## My Contribution
 - Data preprocessing
